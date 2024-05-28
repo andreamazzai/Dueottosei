@@ -113,7 +113,9 @@ In to original bit stream CLB blocks configured as Base F and output (x or y) no
 anyway i [patched](https://github.com/na103/Dueottosei/blob/main/xc2018/v3.00/patchdsg.py) the [dsg](https://github.com/na103/Dueottosei/blob/main/xc2018/v3.00/atplus_patch.dsg) with the new generated bitstream and it work well like the original and so i'm pretty sure it's a correct lca.<br>
 [notie](https://github.com/na103/Dueottosei/tree/main/xc2018/notie) folder contain lca file with only essential logic. cleaned from all nets and clb generated from makebits with tie option.<br>
 from notie lca have been created a [verilog](https://github.com/na103/Dueottosei/tree/main/xc2018/verilog/dueottosei) description.<br>
-
+<br>
+If you found this my work useful, please consider buying me a cup of coffee if you want:<br>
+<a href='https://ko-fi.com/na103' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/cup-border.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
 
